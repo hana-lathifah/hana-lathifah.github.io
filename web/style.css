@@ -1,3 +1,13 @@
+
+.noto-serif-uniquifier {
+  font-family: "Noto Serif", serif !important;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  
+}
+
+
 .hero {
   background-color: #FDE4C3;
   color: #ffffff;
@@ -49,6 +59,7 @@
   height: auto;
   border-radius: 10px;
 }
+
 
 .navbar-brand{
   color: #62220E ;
@@ -157,4 +168,13 @@
 
 .cost{
   font-weight: bold;
+}
+
+.img-fluid{
+  max-width: 65%;
+  max-height: 75%;
+}
+
+.Castella{
+  color: #2e2623;
 }
