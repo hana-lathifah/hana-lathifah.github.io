@@ -1,0 +1,160 @@
+.hero {
+  background-color: #FDE4C3;
+  color: #ffffff;
+  padding: 50px 0;
+  
+}
+
+.hero h1 {
+  font-family: 'Georgia', serif;
+  font-size: 3rem;
+  color: #90553C;
+}
+
+.hero p {
+  font-size: 1.2rem;
+}
+
+.hero .btn {
+  margin: 10px;
+}
+
+.about {
+  padding: 50px 0;
+  background-color: #f9f3f5;
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 2.5rem;
+}
+
+.menu {
+  padding: 50px 0;
+  background-color: #fef1f3;
+  text-align: center;
+}
+
+.menu h2 {
+  font-size: 2.5rem;
+}
+
+.about img {
+  width : 75%;
+  height :auto;
+}
+
+.menu img {
+  width: 50%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.navbar-brand{
+  color: #62220E ;
+}
+
+.h1{
+  color: #90553C;
+}
+
+.about-us{
+  color:#90553C;
+}
+
+.btn-order{
+  background-color: #62220E;
+  color: #f9f3f5;
+}
+
+.btn-ordernow{
+  background-color: #62220E ;
+  color: #f9f3f5;
+}
+
+.btn-Grab{
+  background-color: #90553C;
+  color: #f9f3f5;
+}
+
+.our-Menu{
+  color: #90553C;
+}
+
+.about-us{
+  color: #90553C;
+}
+.contact{
+  color: #90553C;
+}
+
+.saying-about{
+  color: #90553C;
+}
+.testimonial-card {
+  background-color: #fbeeee; /* Warna latar belakang */
+  border: none;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  min-height: 300px; /* Atur sesuai kebutuhan */
+ 
+}
+.testimonial-card img {
+  width: 50px !important;
+  height: 50px;
+  border-radius: 50%;
+  display: inline !important;
+}
+.testimonial-card .rating {
+  color: #ffa41b;
+}
+
+.contact-info {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.contact-icon {
+  background-color: #90553C;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact-text {
+  font-size: 0.9rem;
+}
+.contact-title {
+  font-weight: bold;
+  color: #90553C;
+}
+ /* <!--nama paling atas buat brandnya--> */
+.dot {
+  font-weight: bold;
+  color: #FF8103;
+}
+
+.YUMMY {
+  font-weight: bold;
+  color: #62220E;
+}
+
+/* < about us > */
+.USSR{
+  color: #90553C ;
+}
+
+.testimonial-card h5 mt-3 {
+  font-weight: bold
+}
+
+.about img {
+  width:65%;
+}
+
+.cost{
+  font-weight: bold;
+}
